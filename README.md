@@ -56,5 +56,5 @@ Created 3 new features to add predictive value:
 - `Project_1_EDA_Feature_Engineering.ipynb` — main notebook with all code and outputs
 
 ## 🙋 Author
-[Your Name]
+[Harshita V Kundgol]
 Data Science Intern @ DecodeLabs, Batch 2026
