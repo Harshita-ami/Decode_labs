@@ -66,5 +66,5 @@ a misleading picture on imbalanced datasets like this one.
 - `Project_2_Fraud_Detection.ipynb` — main notebook with all code and outputs
 
 ## 🙋 Author
-[Your Name]
+[Harshita V Kundgol]
 Data Science Intern @ DecodeLabs, Batch 2026
